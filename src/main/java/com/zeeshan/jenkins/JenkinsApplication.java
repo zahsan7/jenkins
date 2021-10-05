@@ -19,6 +19,7 @@ public class JenkinsApplication {
 
 	public static void main(String[] args) {
 		logger.info(" Application executing, In main Fun");
+		logger.info("Test for CI Zeeshan");
 		SpringApplication.run(JenkinsApplication.class, args);
 	}
 
