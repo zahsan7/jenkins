@@ -20,6 +20,7 @@ public class JenkinsApplication {
 	public static void main(String[] args) {
 		logger.info(" Application executing, In main Fun");
 		logger.info("testing Pipeline Jenkins 2nd time");
+		logger.info("Deployment testttttttttttttttt");
 		SpringApplication.run(JenkinsApplication.class, args);
 	}
 
