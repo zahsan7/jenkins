@@ -21,6 +21,7 @@ public class JenkinsApplication {
 		logger.info(" Application executing, In main Fun");
 		logger.info("testing Pipeline Jenkins 2nd time");
 		logger.info("Deployment testttttttttttttttt");
+		logger.info("New Deployment testing");
 		SpringApplication.run(JenkinsApplication.class, args);
 	}
 
